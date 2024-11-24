@@ -1,7 +1,7 @@
 # BkaiNeopolyp
 This is the Assignment for DL class.
 
-for ease of use, please copy these line:
+For ease of use, please copy these line:
 
 
 git clone https://github.com/Cherricott/BkaiNeopolyp
